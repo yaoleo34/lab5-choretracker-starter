@@ -45,8 +45,12 @@
         3,
         null,
         null,
+        4,
         3,
-        2,
+        null,
+        1,
+        5,
+        null,
         null
       ],
       "/Users/leoyao/Desktop/classes/67373/lab5-choretracker-starter/app/models/application_record.rb": [
@@ -76,7 +80,7 @@
         3,
         2,
         2,
-        2,
+        4,
         2,
         2,
         null,
@@ -341,6 +345,6 @@
         0
       ]
     },
-    "timestamp": 1612569274
+    "timestamp": 1612569858
   }
 }
